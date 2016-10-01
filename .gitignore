@@ -1,0 +1,18 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+/Users/sanjuthomas/Documents/open_source/bdd/serenity-core/
+/Users/sanjuthomas/Documents/open_source/bdd/serenity-cucumber/
+/Users/sanjuthomas/Documents/open_source/bdd/serenity-jbehavae/
+/Users/sanjuthomas/Documents/open_source/bdd/serenity-maven-plugin/
+/Users/sanjuthomas/Documents/open_source/bdd/tutorials/
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
